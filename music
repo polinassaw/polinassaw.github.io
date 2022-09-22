@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Music</title>
+         <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <img src="photo.png">
+            <title>My top-artists</title>
+        </header>
+        <div>
+            <nav>
+                 <ul>
+                     <li>Ariana Grande<a href="https://music.yandex.ru/album/13965051"> "Positions"</a></li>
+                     <li>BlackPink<a href="https://music.yandex.ru/album/12322097"> "The Album"</a></li>
+                     <li>Stray Kids<a href="https://music.yandex.ru/album/21052370"> "In Life"</a></li>
+                 </ul>
+            </nav>
+        <main>
+                <p>My Favourite <a href="https://music.yandex.ru/home">Albums</a></p>
+          </main>
+        </div>
+        </body>
+</html>
